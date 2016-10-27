@@ -27,10 +27,15 @@ Naive Bayes classifier.
      The program assumes data is in the following format:
      
      | _AttributeR,C_ | _AttributeR,C_ | _..._ | _AttributeR,C_ | _Class VariableR_ |
+     
      | :------------: | :------------: | :---: | :------------: | :---------------: |
+     
      | _Attribute1,1_ | _Attribute1,2_ | _..._ | _Attribute1,N_ | _Class Variable1_ |
+     
      | _Attribute2,1_ | _Attribute2,2_ | _..._ | _Attribute2,N_ | _Class Variable2_ |
+     
      |     _..._      |     _..._      | _..._ |     _..._      |       _..._       |
+     
      | _AttributeN,1_ | _AttributeN,2_ | _..._ | _AttributeN,N_ | _Class VariableN_ |
 
 ## Versions & Revisions
