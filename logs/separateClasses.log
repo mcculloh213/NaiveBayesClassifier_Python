@@ -1,0 +1,5 @@
+2016-10-27 09:51:16,003 - NBC.separate - INFO - Initializing empty dictionary
+2016-10-27 09:51:16,003 - NBC.separate - INFO - Iterating through the data
+2016-10-27 09:51:16,003 - NBC.separate - INFO - Adding class variable 0.0 to the dictionary
+2016-10-27 09:51:16,003 - NBC.separate - INFO - Adding class variable 1.0 to the dictionary
+2016-10-27 09:51:16,003 - NBC.separate - INFO - Done -- Returning data separated by class variables

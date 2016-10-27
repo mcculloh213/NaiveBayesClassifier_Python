@@ -1,5 +1,5 @@
-2016-10-27 00:21:45,811 - NBC.load - INFO - Opening ./data/prima-indians-diabetes.csv
-2016-10-27 00:21:45,811 - NBC.load - INFO - Reading file
-2016-10-27 00:21:45,812 - NBC.load - INFO - Cohersing data into a list
-2016-10-27 00:21:45,813 - NBC.load - INFO - Converting data entries from strings to floats
-2016-10-27 00:21:45,816 - NBC.load - INFO - Done -- Closing input file
+2016-10-27 09:51:15,999 - NBC.load - INFO - Opening ./data/prima-indians-diabetes.csv
+2016-10-27 09:51:15,999 - NBC.load - INFO - Reading file
+2016-10-27 09:51:15,999 - NBC.load - INFO - Cohersing data into a list
+2016-10-27 09:51:16,000 - NBC.load - INFO - Converting data entries from strings to floats
+2016-10-27 09:51:16,002 - NBC.load - INFO - Done -- Closing input file

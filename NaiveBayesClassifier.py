@@ -2,6 +2,7 @@ import sys
 import lib.load
 import lib.logger as lg
 import lib.split
+import lib.summary
 
 __author__ = "H.D. 'Chip' McCullough IV"
 
@@ -13,5 +14,7 @@ if __name__ == '__main__':
         dataset = lib.load.loadCSV(sys.argv[1])            # Load input from command line into NBC
         log.logger.info("Splitting data set using default parameters")
         train, test = lib.split.splitDataSet(dataset)      # Split data set
+        log.logger.info("Summarizing training data")
+        summaries = lib.summary.classSummary(train)        # Summarize training data
     except Exception as e:
         log.logger.exception(e)
