@@ -1,4 +1,5 @@
 import sys
+import lib.accuracy
 import lib.load
 import lib.logger as lg
 import lib.split
@@ -19,6 +20,9 @@ if __name__ == '__main__':
         summaries = lib.summary.classSummary(train)                  # Summarize training data
         log.logger.info("Predict probabilities of testing data")
         predictions = lib.predict.getPredictions(summaries, test)    # Estimate probabilities based on traning set stats
-        log.logger.info("Debug line")
+        log.logger.info("Estimating accuracy of predictions")
+        accuracy = lib.accuracy.accuracy(test, predictions)          # Calculate accuracy of model
+        print('The model displayed {0}% accuracy when predicting class variables.'.format(accuracy))
+        log.logger.info('The model displayed {0}% accuracy when predicting class variables.'.format(accuracy))
     except Exception as e:
         log.logger.exception(e)
