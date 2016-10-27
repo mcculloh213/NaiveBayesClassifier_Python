@@ -1,762 +1,564 @@
-2016-10-27 13:41:39,487 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,487 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,491 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,491 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,491 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,494 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,494 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,495 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,498 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,498 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,498 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,502 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,502 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,502 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,506 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,506 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,506 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,509 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,509 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,509 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,512 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,512 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,513 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,516 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,516 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,517 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,520 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,520 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,520 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,524 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,524 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,524 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,527 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,527 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,528 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,531 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,531 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,531 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,535 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,535 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,535 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,538 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,538 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,538 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,541 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,541 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,542 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,545 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,545 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,545 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,549 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,549 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,549 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,552 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,552 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,552 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,556 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,556 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,556 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,559 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,559 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,560 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,564 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,564 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,564 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,567 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,567 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,568 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,570 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,570 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,570 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,573 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,573 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,573 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,576 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,576 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,576 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,579 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,579 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,579 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,582 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,582 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,582 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,585 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,585 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,585 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,588 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,588 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,588 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,591 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,591 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,591 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,593 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,594 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,594 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,596 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,596 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,597 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,599 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,599 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,599 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,602 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,602 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,602 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,605 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,605 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,605 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,608 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,608 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,608 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,611 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,611 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,611 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,613 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,614 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,614 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,617 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,617 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,617 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,620 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,620 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,620 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,623 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,623 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,623 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,626 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,626 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,626 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,629 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,630 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,630 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,633 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,633 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,633 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,636 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,636 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,636 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,639 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,639 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,639 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,642 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,642 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,642 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,645 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,645 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,645 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,648 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,648 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,648 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,651 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,651 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,651 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,654 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,654 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,654 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,657 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,657 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,657 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,660 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,660 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,660 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,664 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,664 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,664 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,667 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,667 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,667 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,670 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,670 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,670 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,673 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,673 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,673 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,676 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,676 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,676 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,679 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,679 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,679 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,682 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,682 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,682 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,685 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,685 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,685 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,688 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,688 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,688 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,691 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,691 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,691 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,694 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,695 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,695 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,697 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,697 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,697 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,700 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,700 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,700 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,703 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,703 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,703 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,706 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,706 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,706 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,709 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,709 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,709 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,712 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,712 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,712 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,715 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,715 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,715 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,718 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,718 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,718 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,721 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,721 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,722 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,724 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,724 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,725 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,727 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,728 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,728 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,731 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,731 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,731 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,734 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,734 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,734 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,737 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,737 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,737 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,740 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,740 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,740 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,743 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,743 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,743 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,746 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,746 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,746 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,749 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,749 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,749 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,752 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,752 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,752 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,755 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,755 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,755 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,758 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,758 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,758 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,761 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,761 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,761 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,764 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,764 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,764 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,767 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,767 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,767 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,770 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,770 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,770 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,773 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,773 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,773 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,776 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,776 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,777 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,779 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,780 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,780 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,783 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,783 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,783 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,786 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,786 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,786 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,790 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,790 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,790 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,793 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,793 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,793 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,796 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,796 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,796 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,799 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,800 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,800 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,803 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,804 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,804 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,806 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,806 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,807 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,809 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,809 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,810 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,812 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,812 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,813 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,815 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,815 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,815 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,818 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,818 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,819 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,821 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,821 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,821 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,824 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,824 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,825 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,827 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,828 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,828 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,831 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,831 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,832 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,835 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,835 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,835 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,838 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,838 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,838 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,841 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,841 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,841 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,844 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,844 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,844 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,847 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,847 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,847 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,850 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,850 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,850 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,854 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,854 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,854 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,856 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,856 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,857 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,859 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,859 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,859 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,862 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,862 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,862 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,865 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,865 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,865 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,868 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,868 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,869 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,871 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,871 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,872 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,875 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,875 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,875 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,877 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,877 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,878 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,880 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,881 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,881 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,883 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,884 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,884 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,887 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,887 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,887 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,891 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,891 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,891 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,894 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,895 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,895 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,899 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,899 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,899 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,903 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,903 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,903 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,906 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,906 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,907 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,909 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,909 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,909 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,912 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,912 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,912 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,915 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,915 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,916 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,918 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,918 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,919 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,921 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,921 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,921 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,924 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,924 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,924 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,927 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,927 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,927 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,930 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,931 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,931 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,934 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,934 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,934 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,937 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,937 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,937 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,941 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,941 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,941 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,944 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,944 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,945 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,949 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,949 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,949 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,953 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,953 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,953 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,956 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,956 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,956 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,959 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,959 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,959 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,962 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,962 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,962 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,965 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,965 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,965 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,968 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,968 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,968 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,971 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,971 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,971 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,974 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,974 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,974 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,977 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,977 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,977 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,980 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,980 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,980 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,983 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,983 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,983 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,986 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,986 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,986 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,989 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,989 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,989 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,992 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,992 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,992 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,995 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,995 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,995 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:39,997 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:39,997 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:39,997 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,000 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,000 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,000 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,003 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,003 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,003 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,006 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,006 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,006 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,008 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,008 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,008 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,011 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,011 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,011 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,014 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,014 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,014 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,017 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,017 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,017 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,019 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,019 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,020 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,022 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,022 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,022 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,025 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,025 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,025 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,028 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,028 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,028 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,030 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,031 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,031 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,033 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,033 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,033 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,036 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,036 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,036 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,039 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,039 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,039 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,041 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,041 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,041 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,044 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,044 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,044 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,047 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,047 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,047 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,050 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,050 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,050 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,052 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,052 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,052 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,055 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,055 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,056 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,058 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,058 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,058 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,061 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,061 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,061 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,064 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,064 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,064 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,066 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,066 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,067 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,069 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,069 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,069 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,072 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,072 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,072 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,074 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,075 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,075 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,077 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,077 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,077 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,080 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,080 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,080 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,083 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,083 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,083 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,086 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,086 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,086 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,088 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,088 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,089 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,091 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,091 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,091 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,094 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,094 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,094 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,097 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,097 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,097 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,100 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,100 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,100 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,102 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,102 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,103 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,105 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,105 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,105 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,108 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,108 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,108 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,111 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,111 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,111 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,114 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,114 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,114 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,116 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,116 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,116 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,119 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,119 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,119 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,122 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,122 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,122 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,124 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,124 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,125 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,127 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,127 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,127 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,130 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,130 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,130 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,133 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,133 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,133 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,136 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,136 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,136 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,139 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,139 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,140 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,144 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,144 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,144 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,148 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,148 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,148 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,153 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,153 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,153 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,156 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,156 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,156 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,159 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,159 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,159 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,163 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,163 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,163 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,167 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,167 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,167 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,171 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,171 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,171 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,175 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,175 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,175 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,179 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,179 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,180 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,184 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,184 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,184 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,189 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,189 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,189 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,193 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,193 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,193 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,196 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,196 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,196 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,199 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,199 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,199 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,202 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,202 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,202 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,205 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,205 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,205 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,208 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,208 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,208 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,210 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,210 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,211 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,213 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,213 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,213 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,216 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,216 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,216 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,219 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,219 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,219 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,222 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,222 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,222 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,225 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,225 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,225 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,228 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,228 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,228 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,230 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,230 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,231 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,233 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,233 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,233 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,236 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,236 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,236 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,239 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,239 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,239 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,244 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,244 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,244 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,249 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,249 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,249 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,254 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,255 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,255 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,259 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,259 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,259 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,264 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,264 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,264 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,269 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,269 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,269 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,273 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,273 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,273 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,278 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,278 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,278 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,283 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,283 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,283 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,287 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,287 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,287 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,291 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,291 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,292 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,296 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,296 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,296 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,300 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
-2016-10-27 13:41:40,301 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
-2016-10-27 13:41:40,301 - NBC.probability - INFO - classProbabilities: Estimating probabilities
-2016-10-27 13:41:40,305 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,360 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,360 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,364 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,364 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,364 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,367 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,367 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,367 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,370 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,370 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,371 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,374 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,374 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,374 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,377 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,377 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,377 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,380 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,380 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,380 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,383 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,383 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,384 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,386 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,386 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,387 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,390 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,390 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,390 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,393 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,393 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,393 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,395 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,396 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,396 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,398 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,399 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,399 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,401 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,401 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,402 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,404 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,404 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,404 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,407 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,407 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,407 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,410 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,410 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,410 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,413 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,413 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,413 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,416 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,416 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,416 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,419 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,419 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,419 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,421 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,421 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,421 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,424 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,424 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,424 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,427 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,427 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,427 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,429 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,429 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,429 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,432 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,432 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,432 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,434 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,434 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,435 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,437 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,437 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,437 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,439 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,440 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,440 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,442 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,442 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,442 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,444 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,444 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,445 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,447 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,447 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,447 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,449 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,449 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,449 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,452 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,452 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,452 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,454 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,454 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,454 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,456 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,456 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,457 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,459 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,459 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,459 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,461 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,461 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,461 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,463 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,464 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,464 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,466 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,466 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,466 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,468 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,469 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,469 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,471 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,471 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,471 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,473 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,473 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,473 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,475 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,475 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,475 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,477 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,477 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,478 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,480 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,480 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,480 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,482 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,482 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,482 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,484 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,484 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,484 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,486 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,486 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,486 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,488 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,488 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,488 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,490 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,491 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,491 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,493 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,493 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,493 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,495 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,495 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,495 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,497 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,497 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,497 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,499 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,499 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,499 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,501 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,501 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,501 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,503 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,503 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,504 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,505 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,506 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,506 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,508 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,508 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,508 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,510 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,510 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,510 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,512 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,512 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,512 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,514 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,514 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,514 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,516 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,516 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,516 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,518 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,518 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,519 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,520 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,520 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,521 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,522 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,523 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,523 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,524 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,524 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,525 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,526 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,526 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,527 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,528 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,528 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,529 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,530 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,530 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,530 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,532 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,532 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,532 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,534 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,534 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,535 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,536 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,536 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,536 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,538 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,538 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,538 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,540 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,540 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,540 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,542 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,542 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,542 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,544 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,544 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,544 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,546 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,546 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,546 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,548 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,548 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,548 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,550 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,550 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,550 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,552 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,552 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,552 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,554 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,554 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,554 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,556 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,556 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,556 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,558 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,558 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,558 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,560 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,560 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,560 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,562 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,562 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,562 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,564 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,564 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,564 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,566 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,566 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,566 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,568 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,568 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,568 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,570 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,575 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,575 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,577 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,577 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,577 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,579 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,579 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,579 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,581 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,581 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,581 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,583 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,583 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,583 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,585 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,585 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,585 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,587 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,587 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,587 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,589 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,589 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,589 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,591 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,591 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,591 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,593 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,593 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,593 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,595 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,595 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,595 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,597 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,597 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,597 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,599 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,599 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,599 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,601 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,601 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,601 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,603 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,603 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,603 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,605 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,605 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,605 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,607 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,607 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,607 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,609 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,609 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,609 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,610 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,611 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,611 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,612 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,612 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,613 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,614 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,615 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,615 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,617 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,617 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,617 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,619 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,619 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,619 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,621 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,621 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,621 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,623 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,623 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,623 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,625 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,625 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,625 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,627 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,627 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,627 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,629 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,629 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,629 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,631 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,631 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,631 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,633 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,633 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,633 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,635 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,635 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,635 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,637 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,637 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,637 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,639 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,639 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,639 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,641 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,641 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,641 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,642 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,643 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,643 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,644 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,644 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,645 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,646 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,646 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,647 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,648 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,649 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,649 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,650 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,650 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,651 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,652 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,652 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,652 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,654 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,654 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,654 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,656 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,656 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,656 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,658 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,658 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,658 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,660 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,660 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,660 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,662 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,662 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,662 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,664 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,664 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,664 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,666 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,666 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,666 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,669 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,669 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,669 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,671 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,671 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,671 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,673 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,673 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,673 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,675 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,675 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,675 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,677 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,677 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,677 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,679 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,679 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,679 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,681 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,681 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,681 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,683 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,683 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,683 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,685 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,685 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,685 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,687 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,687 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,687 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,689 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,689 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,689 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,690 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,691 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,691 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,692 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,692 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,693 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,694 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,694 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,695 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,697 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,697 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,697 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,699 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,699 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,699 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,700 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,701 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,701 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,702 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,702 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,703 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,704 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,704 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,704 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,706 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,706 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,706 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,708 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,708 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,708 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,710 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,710 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,710 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,712 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,712 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,712 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,714 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,714 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,714 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,716 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,716 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,716 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,718 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,718 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,718 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,720 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,721 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,721 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,722 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,722 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,723 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,724 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,724 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,724 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,726 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,726 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,726 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,728 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,728 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,728 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,730 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,730 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,730 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,732 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,732 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,732 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,734 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,734 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,734 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,736 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,736 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,736 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,738 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,738 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,738 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,740 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,740 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,740 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,742 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,742 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,742 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,744 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,744 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,744 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,746 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,746 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,746 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,748 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,748 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,748 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,750 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,750 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,750 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,752 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,752 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,752 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,753 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,754 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,754 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,755 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,756 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,756 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,757 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,758 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,758 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,759 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,760 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,760 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,761 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,761 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,762 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,763 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,764 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,764 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,765 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,766 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,766 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,767 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,767 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,768 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,770 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,770 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,770 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,772 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class
+2016-10-27 17:43:31,772 - NBC.probability - INFO - classProbabilities: Initializing probability dictionary
+2016-10-27 17:43:31,772 - NBC.probability - INFO - classProbabilities: Estimating probabilities
+2016-10-27 17:43:31,774 - NBC.probability - INFO - classProbabilities: Done -- Returning probabilities by class

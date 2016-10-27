@@ -1,5 +1,8 @@
-2016-10-27 13:41:39,449 - NBC.load - INFO - Opening ./data/prima-indians-diabetes.csv
-2016-10-27 13:41:39,449 - NBC.load - INFO - Reading file
-2016-10-27 13:41:39,450 - NBC.load - INFO - Cohersing data into a list
-2016-10-27 13:41:39,451 - NBC.load - INFO - Converting data entries from strings to floats
-2016-10-27 13:41:39,455 - NBC.load - INFO - Done -- Closing input file
+2016-10-27 17:43:31,329 - NBC.load - INFO - Opening ./data/primate-factors.csv
+2016-10-27 17:43:31,330 - NBC.load - INFO - Reading file
+2016-10-27 17:43:31,330 - NBC.load - INFO - Cohersing data into a list
+2016-10-27 17:43:31,330 - NBC.load - INFO - Converting data entries from strings to floats
+2016-10-27 17:43:31,575 - NBC.load - INFO - Opening ./data/primate-factors-no-class-var.csv
+2016-10-27 17:43:31,575 - NBC.load - INFO - Reading file
+2016-10-27 17:43:31,575 - NBC.load - INFO - Cohersing data into a list
+2016-10-27 17:43:31,575 - NBC.load - INFO - Converting data entries from strings to floats

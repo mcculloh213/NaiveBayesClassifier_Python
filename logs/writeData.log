@@ -1,0 +1,2 @@
+2016-10-27 17:43:31,774 - NBC.write - INFO - writeData: Creating outfile: ./data/primate-factors-predictions.csv
+2016-10-27 17:43:31,775 - NBC.write - INFO - writeData: Done -- EOP

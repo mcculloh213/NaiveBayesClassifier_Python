@@ -23,9 +23,9 @@ def loadCSV(file):
         log.logger.info("Converting data entries from strings to floats")
         for i in range(0, len(dataset)):                   # Cast data into floats
             dataset[i] = [float(x) for x in dataset[i]]
-        for i in range(0, len(dataset)):                   # Cast class variable into int
-            dataset[i][-1] = int(dataset[i][-1])
-        log.logger.info("Done -- Closing input file")
+        # for i in range(0, len(dataset)):                   # Cast class variable into int
+        #     dataset[i][-1] = int(dataset[i][-1])
+        # log.logger.info("Done -- Closing input file")
         f.close()                                          # Close param:file
         return dataset
     except Exception as e:

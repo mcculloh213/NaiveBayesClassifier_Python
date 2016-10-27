@@ -1,0 +1,1 @@
+This data was generated using a model that was 67.0454545455% accurate on the test subset of the original data, "./data/primate-factors.csv"
