@@ -1,216 +1,216 @@
-2016-10-27 09:51:16,004 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,004 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,004 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,004 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,004 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,004 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,004 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,004 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,005 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,006 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,007 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,008 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,009 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,010 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,011 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,012 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,013 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,014 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,014 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,014 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,014 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,014 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,014 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,014 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,014 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,014 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,015 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,016 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,017 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,018 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,019 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,020 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,021 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Done -- Returning St. Dev
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,022 - NBC.statistics - INFO - Calculating St. Dev
-2016-10-27 09:51:16,023 - NBC.statistics - INFO - Calculating Variance
-2016-10-27 09:51:16,023 - NBC.statistics - INFO - Calculating Expected Value
-2016-10-27 09:51:16,023 - NBC.statistics - INFO - Done -- Returning Expected Value
-2016-10-27 09:51:16,023 - NBC.statistics - INFO - Done -- Returning Variance
-2016-10-27 09:51:16,023 - NBC.statistics - INFO - Done -- Returning St. Dev
+2016-10-27 13:09:48,749 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,749 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,750 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,750 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,751 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,751 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,752 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,752 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,753 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,753 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,754 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,754 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,755 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,755 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,756 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,756 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,756 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,757 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,758 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,758 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,759 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,759 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,760 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,760 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,761 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,761 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,762 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,762 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,762 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,763 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,764 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,764 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,764 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,765 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,766 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,766 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,767 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,767 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,767 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,768 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,768 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,769 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,770 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,771 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,772 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,772 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,773 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,774 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,774 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,775 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,776 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,777 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,777 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,778 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,778 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,779 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,779 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,780 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,780 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,781 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,781 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,782 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,782 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,783 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,783 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,784 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,784 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,785 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,785 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,786 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,786 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,787 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,787 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,788 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,788 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,789 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,789 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,790 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,790 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,791 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,791 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,792 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,792 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,793 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,793 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,794 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,794 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,795 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,795 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,796 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,797 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,797 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,797 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,798 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,799 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,799 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,800 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,800 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,801 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,801 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,802 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,802 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,803 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,803 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,804 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,804 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,805 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,806 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,807 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,808 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,808 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,809 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,809 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,810 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,811 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,811 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,812 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,812 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,813 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,813 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,814 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,814 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,815 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,815 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,816 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,816 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,817 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,817 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,818 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,818 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,819 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,819 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,820 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,820 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,821 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,821 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,822 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,822 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,823 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,823 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,824 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,824 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,825 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,825 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,826 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,826 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,827 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,827 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,828 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,828 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,829 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,829 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,830 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,830 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,831 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,831 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,831 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,832 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,832 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,833 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,833 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,834 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,834 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,835 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,835 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,836 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,836 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,837 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,837 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,838 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,838 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,839 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,839 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,840 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,840 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,841 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,841 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,842 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,842 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,843 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,843 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,844 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,844 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,845 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,845 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,846 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,846 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,847 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,847 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,848 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,848 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,849 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,849 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,850 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,850 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,851 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,851 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,852 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,852 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,853 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,853 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,853 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,854 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,854 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev
+2016-10-27 13:09:48,855 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,855 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,856 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,856 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,857 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,857 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,858 - NBC.statistics - INFO - St.Dev: Calculating St. Dev
+2016-10-27 13:09:48,858 - NBC.statistics - INFO - Variance: Calculating Variance
+2016-10-27 13:09:48,859 - NBC.statistics - INFO - Mean: Calculating Expected Value
+2016-10-27 13:09:48,859 - NBC.statistics - INFO - Mean: Done -- Returning Expected Value
+2016-10-27 13:09:48,860 - NBC.statistics - INFO - Variance: Done -- Returning Variance
+2016-10-27 13:09:48,860 - NBC.statistics - INFO - St.Dev: Done -- Returning St. Dev

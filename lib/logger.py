@@ -16,6 +16,7 @@ class Logger:
         :param formatting: Formatting string for Logger
         :param level: Level for base logger, set to DEBUG as default
         """
+        self.__delLog(out)
         self.__logger = logging.getLogger(name)
         self.__logger.setLevel(level)
 
@@ -32,3 +33,8 @@ class Logger:
     @property
     def logger(self):
         return self.__logger
+
+    def __delLog(self, logName):
+        logPath = os.path.join(".", "logs", logName + ".log")
+        if os.path.exists(logPath):
+            os.remove(os.path.join(logPath))

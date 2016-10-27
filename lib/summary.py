@@ -14,15 +14,15 @@ def summary(data):
     :type data: list<float[]>
     :return: Summary (float[])
     """
-    log.logger.info("Summarizing data")
+    log.logger.info("Summary: Summarizing data")
     summ = []
     for attribute in zip(*data):
         summ.append((lib.statistics.mean(attribute),       # Find attribute E[X]
                      lib.statistics.var(attribute),        # Find attribute V[X}
                      lib.statistics.stdev(attribute)))     # Find attribute St.Dev[X]
-    log.logger.info("Removing summary related to class variable")
+    log.logger.info("Summary: Removing summary related to class variable")
     del summ[-1]                                           # Delete class variable summary
-    log.logger.info("Done -- Returning summarized data")
+    log.logger.info("Summary: Done -- Returning summarized data")
     return summ
 
 
@@ -33,11 +33,11 @@ def classSummary(data):
     :type data: list<float[]>
     :return:
     """
-    log.logger.info("Separating data by class value")
+    log.logger.info("classSummary: Separating data by class value")
     separated = lib.separate.separateClasses(data)         # Separate data
     summaries = {}
-    log.logger.info("Summarize data by class value")
-    for classValue, instances in separated.iteritems():    # Iterate through separated data
+    log.logger.info("classSummary: Summarize data by class value")
+    for classValue, instances in separated.items():        # Iterate through separated data
         summaries[classValue] = summary(instances)         # Summarize
-    log.logger.info("Done -- Returning summarized data")
+    log.logger.info("classSummary: Done -- Returning summarized data")
     return summaries

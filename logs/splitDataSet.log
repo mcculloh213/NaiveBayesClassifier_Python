@@ -1,4 +1,4 @@
-2016-10-27 09:51:16,002 - NBC.split - INFO - Training data size set to 514
-2016-10-27 09:51:16,002 - NBC.split - INFO - Initializing training data set
-2016-10-27 09:51:16,002 - NBC.split - INFO - Building training and testing data sets
-2016-10-27 09:51:16,003 - NBC.split - INFO - Done -- Returning split data set
+2016-10-27 13:09:48,733 - NBC.split - INFO - Training data size set to 514
+2016-10-27 13:09:48,733 - NBC.split - INFO - Initializing training data set
+2016-10-27 13:09:48,734 - NBC.split - INFO - Building training and testing data sets
+2016-10-27 13:09:48,744 - NBC.split - INFO - Done -- Returning split data set

@@ -13,10 +13,10 @@ def mean(nums):
     :type nums: float[]
     :return: Expected Value (float)
     """
-    log.logger.info("Calculating Expected Value")
+    log.logger.info("Mean: Calculating Expected Value")
     numerator = sum(nums)                                  # Sum the entries of param:nums
     denominator = float(len(nums))                         # Count the number of entries in param:nums
-    log.logger.info("Done -- Returning Expected Value")
+    log.logger.info("Mean: Done -- Returning Expected Value")
     return numerator/denominator
 
 
@@ -27,10 +27,10 @@ def var(nums):
     :type nums: float[]
     :return: Variance (float)
     """
-    log.logger.info("Calculating Variance")
+    log.logger.info("Variance: Calculating Variance")
     mu = mean(nums)                                  # Calculate the EV
     variance = sum([pow(x - mu, 2) for x in nums]) / float(len(nums) - 1)
-    log.logger.info("Done -- Returning Variance")
+    log.logger.info("Variance: Done -- Returning Variance")
     return variance
 
 
@@ -41,7 +41,7 @@ def stdev(nums):
     :type nums: float[]
     :return: St. Dev (float)
     """
-    log.logger.info("Calculating St. Dev")
+    log.logger.info("St.Dev: Calculating St. Dev")
     sigma = math.sqrt(var(nums))
-    log.logger.info("Done -- Returning St. Dev")
+    log.logger.info("St.Dev: Done -- Returning St. Dev")
     return sigma

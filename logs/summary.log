@@ -1,9 +1,9 @@
-2016-10-27 09:51:16,003 - NBC.summary - INFO - Separating data by class value
-2016-10-27 09:51:16,004 - NBC.summary - INFO - Summarize data by class value
-2016-10-27 09:51:16,004 - NBC.summary - INFO - Summarizing data
-2016-10-27 09:51:16,014 - NBC.summary - INFO - Removing summary related to class variable
-2016-10-27 09:51:16,014 - NBC.summary - INFO - Done -- Returning summarized data
-2016-10-27 09:51:16,014 - NBC.summary - INFO - Summarizing data
-2016-10-27 09:51:16,023 - NBC.summary - INFO - Removing summary related to class variable
-2016-10-27 09:51:16,023 - NBC.summary - INFO - Done -- Returning summarized data
-2016-10-27 09:51:16,023 - NBC.summary - INFO - Done -- Returning summarized data
+2016-10-27 13:09:48,745 - NBC.summary - INFO - classSummary: Separating data by class value
+2016-10-27 13:09:48,748 - NBC.summary - INFO - classSummary: Summarize data by class value
+2016-10-27 13:09:48,748 - NBC.summary - INFO - Summary: Summarizing data
+2016-10-27 13:09:48,806 - NBC.summary - INFO - Summary: Removing summary related to class variable
+2016-10-27 13:09:48,807 - NBC.summary - INFO - Summary: Done -- Returning summarized data
+2016-10-27 13:09:48,807 - NBC.summary - INFO - Summary: Summarizing data
+2016-10-27 13:09:48,861 - NBC.summary - INFO - Summary: Removing summary related to class variable
+2016-10-27 13:09:48,861 - NBC.summary - INFO - Summary: Done -- Returning summarized data
+2016-10-27 13:09:48,862 - NBC.summary - INFO - classSummary: Done -- Returning summarized data
